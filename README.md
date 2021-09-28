@@ -10,7 +10,7 @@ Investigator: Craig Atkinson, Stanford-Vienna TTLF Fellow
 
 3. Exploring the Multilateral Interface: Sources of Public International Law
 
-4. Comparing In force, Draft, and Proposed Sources of EU and US Law
+4. Comparing *In force*, *Draft*, and *Proposed* Sources of EU and US Law
 
 5. Framing Institutional Sources of Transnational Commercial Law
 
