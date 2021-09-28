@@ -12,7 +12,7 @@ Investigator: Craig Atkinson, Stanford-Vienna TTLF Fellow
 
 4. Comparing In force, Draft, and Proposed Sources of EU and US Law
 
-5. Framing Institutional Source of Transnational Commercial Law
+5. Framing Institutional Sources of Transnational Commercial Law
 
 6. Computational Law for Transatlantic Trade: Seizing the Opportunity
 
