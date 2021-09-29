@@ -28,9 +28,9 @@ Investigator: Craig Atkinson, Stanford-Vienna TTLF Fellow
 
 4.2 US Trade and Customs Law
 
-4.3 EU Sources of Electronic Business, Digital, and Data Regulation
+4.3 EU Sources of Electronic Business, Digital, and Data Regulations
 
-4.4 US Sources of Electronic Business, Digital, and Data Regulation
+4.4 US Sources of Electronic Business, Digital, and Data Regulations
 
 4.5 A Note on Artificial Intelligence ('AI') Regulations
 
