@@ -14,7 +14,7 @@ Investigator: Craig Atkinson, Stanford-Vienna TTLF Fellow
 
 5. Framing Institutional Sources of Transnational Commercial Law
 
-6. Computational Law for Transatlantic Trade: Seizing the Opportunity
+6. Seizing the Opportunity: Computational Law for Transatlantic Trade: 
 
 7. Conclusion
 
