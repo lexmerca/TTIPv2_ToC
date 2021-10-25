@@ -18,7 +18,7 @@ Investigator: Craig Atkinson, Stanford-Vienna TTLF Fellow
 
 #### 3.2 Ongoing WTO Negotiations and Initiatives
 
-##### 3.2.1 EU / US Principles and Proposals: WTO Joint Statement Initiative ('JSI') on E-commerce
+##### 3.2.1 EU / US Principles and Proposals: Joint Statement Initiative ('JSI') on E-commerce
 
 ##### 3.2.2 Draft Text for a 'Services Domestic Regulation' Agreement
 
