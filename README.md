@@ -20,9 +20,21 @@ Investigator: Craig Atkinson, Stanford-Vienna TTLF Fellow
 
 ###### 3.1.2 Agreement on Technical Barriers to Trade (‘TBT Agreement’)
 
+###### 3.1.3 Agreement on the Application of Sanitary and Phytosanitary Measures (‘SPS Agreement’)
+
+###### 3.1.4 General Agreement on Trade in Services (‘GATS’)
+
+###### 3.1.5 Agreement on Trade-Related Aspects of Intellectual Property Rights (‘TRIPS Agreement’)
+
+###### 3.1.6 Information Technology Agreement (‘ITA’)
+
+###### 3.1.7 Declaration on Global Electronic Commerce
+
+###### 3.1.8 Trade Facilitation Agreement (‘TFA’)
+
 #### 3.2 Ongoing WTO Negotiations and Initiatives
 
-##### 3.2.1 EU / US Principles and Proposals: Joint Statement Initiative ('JSI') on E-commerce
+##### 3.2.1 EU / US Proposals: Joint Statement Initiative ('JSI') on E-commerce
 
 ##### 3.2.2 Draft Text for a 'Services Domestic Regulation' Agreement
 
