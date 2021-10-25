@@ -44,6 +44,16 @@ Investigator: Craig Atkinson, Stanford-Vienna TTLF Fellow
 
 #### 4.1 EU Trade and Customs Law
 
+###### 4.1.1 A Patchwork of National Customs Administrations
+
+###### 4.1.2 The Union Customs Code ('UCC')
+
+###### 4.1.3 The Customs Action Plan
+
+###### 4.1.4 The Value-Added Tax (‘VAT’) Action Plan: The E-commerce Package
+
+###### 4.1.5 Proposal for an EU Single Window Environment for Customs
+
 #### 4.2 US Trade and Customs Law
 
 #### 4.3 EU Sources of Electronic Business, Digital, and Data Regulations
