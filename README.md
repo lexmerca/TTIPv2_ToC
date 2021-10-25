@@ -16,6 +16,8 @@ Investigator: Craig Atkinson, Stanford-Vienna TTLF Fellow
 
 #### 3.1 Existing Sources of World Trade Organization ('WTO') Law
 
+##### 3.1.1 General Agreement on Tariffs and Trade (‘GATT’)
+
 #### 3.2 Ongoing WTO Negotiations and Initiatives
 
 ##### 3.2.1 EU / US Principles and Proposals: Joint Statement Initiative ('JSI') on E-commerce
