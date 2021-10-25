@@ -58,7 +58,7 @@ Investigator: Craig Atkinson, Stanford-Vienna TTLF Fellow
 
 ###### 4.2.1 The US Code and Trade Act
 
-###### Automated Commercial Environment (‘ACE’) for Customs
+###### 4.2.2 Automated Commercial Environment (‘ACE’) for Customs
 
 #### 4.3 EU Sources of Electronic Business, Digital, and Data Regulations
 
