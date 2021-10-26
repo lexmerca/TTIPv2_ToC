@@ -82,6 +82,8 @@ Investigator: Craig Atkinson, Stanford-Vienna TTLF Fellow
 
 ###### 4.4.1 A Patchwork of State and Federal Laws
 
+###### 4.4.2 Uniform Commercial Code ('UCC')
+
 ###### 4.4.2 Uniform Electronic Transactions Act (‘UETA’)
 
 ###### 4.4.3 Electronic Signatures in Global and National Commerce Act (‘E-Sign Act’)
