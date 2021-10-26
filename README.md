@@ -68,16 +68,21 @@ Investigator: Craig Atkinson, Stanford-Vienna TTLF Fellow
 
 ###### 4.3.3 General Data Protection Regulation (‘GDPR’)
 
+###### 4.3.4 Digital Markets Act (‘DMA’)
 
-###### 4.3.4
+###### 4.3.5 Digital Services Act (‘DSA’)
 
-###### 4.3.5
+###### 4.3.6 Draft Data Governance Act (‘DGA’)
 
-###### 4.3.6
-
-###### 4.3.7
+###### 4.3.7 Proposed ePrivacy Regulation (‘ePR’)
 
 #### 4.4 US Sources of Electronic Business, Digital, and Data Regulations
+
+###### 4.4.1 A Patchwork of State and Federal Laws
+
+###### 4.4.2 Uniform Electronic Transactions Act (‘UETA’)
+
+
 
 #### 4.5 A Note on Artificial Intelligence ('AI') Regulations
 
