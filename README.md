@@ -82,8 +82,8 @@ Investigator: Craig Atkinson, Stanford-Vienna TTLF Fellow
 
 ###### 4.4.2 Uniform Electronic Transactions Act (‘UETA’)
 
-
-
+###### 4.4.3 Electronic Signatures in Global and National Commerce Act (‘E-Sign Act’)
+ 
 #### 4.5 A Note on Artificial Intelligence ('AI') Regulations
 
 #### 4.6 Case Law: EU and US Court Rulings
