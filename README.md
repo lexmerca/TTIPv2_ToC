@@ -10,7 +10,7 @@ Investigator: Craig Atkinson, Stanford-Vienna TTLF Fellow
 
 #### 2.1 From Codification of Law to 'Code is Law' and the Digitalization of Trade
 
-#### 2.2 A Transatlantic Trade and Investment Partnership, 'version 2.0'?
+#### 2.2 A Transatlantic Trade and Investment Partnership 'version 2.0'?
 
 ## 3. Exploring the Multilateral Interface: Public International Law
 
@@ -36,7 +36,7 @@ Investigator: Craig Atkinson, Stanford-Vienna TTLF Fellow
 
 ###### 3.2.1 European Union ('EU') / United States ('US') Proposals: Joint Statement Initiative ('JSI') on E-commerce
 
-###### 3.2.2 Draft Text for a 'Services Domestic Regulation' Agreement
+###### 3.2.2 Draft / Final Text for a 'Services Domestic Regulation' Agreement
 
 #### 3.3 Case Law: WTO Panel Decisions and Appellate Body (‘AB’) Rulings
 
