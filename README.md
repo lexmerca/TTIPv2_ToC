@@ -4,9 +4,9 @@ Investigator: Craig Atkinson, Stanford-Vienna TTLF Fellow
 
 ## Table of Contents
 
-## 1. Introduction
+## 1. [Introduction](https://github.com/lexmerca/TTIPv2_3/blob/main/README.md)
 
-## 2. The Age of Computational Law, the Internet, and Rules Automation
+## 2. [The Age of Computational Law, the Internet, and Rules Automation](https://github.com/lexmerca/TTIPv2_2/blob/main/README.md)
 
 #### 2.1 From Codification of Law to 'Code is Law' and the Digitalization of Trade
 
@@ -114,8 +114,8 @@ Investigator: Craig Atkinson, Stanford-Vienna TTLF Fellow
 
 ###### 5.3.2 Uniform Rules for Digital Trade Transactions (‘URDTT’)
 
-## 6. Seizing the Opportunity: Computational Law for Transatlantic Trade
+## 6. [Seizing the Opportunity: Computational Law for Transatlantic Trade](https://github.com/lexmerca/TTIPv2_6/blob/main/README.md)
 
-## 7. Conclusion
+## 7. [Conclusion](https://github.com/lexmerca/TTIPv2_7/blob/main/README.md)
 
 
