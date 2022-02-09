@@ -40,7 +40,7 @@ Investigator: Craig Atkinson, Stanford-Vienna TTLF Fellow
 
 #### 3.3 Case Law: WTO Panel Decisions and Appellate Body (‘AB’) Rulings
 
-## 4. Comparing *In force*, *Draft*, and *Proposed* Sources of EU and US Law
+## 4. [Comparing *In force*, *Draft*, and *Proposed* Sources of EU and US Law](https://github.com/lexmerca/TTIPv2_4/blob/main/README.md)
 
 #### 4.1 EU Trade and Customs Law
 
