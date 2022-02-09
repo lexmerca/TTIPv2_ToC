@@ -4,7 +4,7 @@ Investigator: Craig Atkinson, Stanford-Vienna TTLF Fellow
 
 ## Table of Contents
 
-## 1. [Introduction](https://github.com/lexmerca/TTIPv2_3/blob/main/README.md)
+## 1. [Introduction](https://github.com/lexmerca/TTIPv2_1/blob/main/README.md)
 
 ## 2. [The Age of Computational Law, the Internet, and Rules Automation](https://github.com/lexmerca/TTIPv2_2/blob/main/README.md)
 
