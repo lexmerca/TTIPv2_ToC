@@ -12,7 +12,7 @@ Investigator: Craig Atkinson, Stanford-Vienna TTLF Fellow
 
 #### 2.2 A Transatlantic Trade and Investment Partnership 'version 2.0'?
 
-## 3. Exploring the Multilateral Interface: Public International Law
+## 3. [Exploring the Multilateral Interface: Public International Law](https://github.com/lexmerca/TTIPv2_3/blob/main/README.md)
 
 #### 3.1 Existing Sources of World Trade Organization ('WTO') Law
 
