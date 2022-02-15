@@ -114,7 +114,7 @@ Investigator: Craig Atkinson, Stanford-Vienna TTLF Fellow
 
 ###### 5.3.2 Uniform Rules for Digital Trade Transactions (‘URDTT’)
 
-## 6. [Seizing the Opportunity: Computational Law for Transatlantic Trade](https://github.com/lexmerca/TTIPv2_6/blob/main/README.md)
+## 6. [Seizing the Opportunity: Computational Law for Transatlantic Trade](https://github.com/lexmerca/TTIPv2_6/)
 
 ## 7. [Conclusion](https://github.com/lexmerca/TTIPv2_7)
 
