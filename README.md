@@ -4,15 +4,15 @@ Investigator: Craig Atkinson, Stanford-Vienna TTLF Fellow
 
 ## [Abstract](https://github.com/lexmerca/TTIPv2_Abstract)
 
-## 1. [Introduction](https://github.com/lexmerca/TTIPv2_1/blob/main/README.md)
+## 1. [Introduction](https://github.com/lexmerca/TTIPv2_1/)
 
-## 2. [The Age of Computational Law, the Internet, and Rules Automation](https://github.com/lexmerca/TTIPv2_2/blob/main/README.md)
+## 2. [The Age of Computational Law, the Internet, and Rules Automation](https://github.com/lexmerca/TTIPv2_2/)
 
 #### 2.1 From Codification of Law to 'Code is Law' and the Digitalization of Trade
 
 #### 2.2 A Transatlantic Trade and Investment Partnership 'version 2.0'?
 
-## 3. [Exploring the Multilateral Interface: Public International Law](https://github.com/lexmerca/TTIPv2_3/blob/main/README.md)
+## 3. [Exploring the Multilateral Interface: Public International Law](https://github.com/lexmerca/TTIPv2_3/)
 
 #### 3.1 Existing Sources of World Trade Organization ('WTO') Law
 
@@ -40,7 +40,7 @@ Investigator: Craig Atkinson, Stanford-Vienna TTLF Fellow
 
 #### 3.3 Case Law: WTO Panel Decisions and Appellate Body (‘AB’) Rulings
 
-## 4. [Comparing *In force*, *Draft*, and *Proposed* Sources of EU and US Law](https://github.com/lexmerca/TTIPv2_4/blob/main/README.md)
+## 4. [Comparing *In force*, *Draft*, and *Proposed* Sources of EU and US Law](https://github.com/lexmerca/TTIPv2_4/)
 
 #### 4.1 EU Trade and Customs Law
 
@@ -92,7 +92,7 @@ Investigator: Craig Atkinson, Stanford-Vienna TTLF Fellow
 
 #### 4.6 Case Law: EU and US Court Rulings
 
-## 5. [Framing Institutional Sources of Transnational Commercial Law](https://github.com/lexmerca/TTIPv2_5/blob/main/README.md)
+## 5. [Framing Institutional Sources of Transnational Commercial Law](https://github.com/lexmerca/TTIPv2_5/)
 
 #### 5.1 United Nations Commission on International Trade Law (‘UNCITRAL’)
 
@@ -116,6 +116,6 @@ Investigator: Craig Atkinson, Stanford-Vienna TTLF Fellow
 
 ## 6. [Seizing the Opportunity: Computational Law for Transatlantic Trade](https://github.com/lexmerca/TTIPv2_6/blob/main/README.md)
 
-## 7. [Conclusion](https://github.com/lexmerca/TTIPv2_7/blob/main/README.md)
+## 7. [Conclusion](https://github.com/lexmerca/TTIPv2_7)
 
 
