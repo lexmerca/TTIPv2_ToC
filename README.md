@@ -2,6 +2,8 @@
 
 Investigator: Craig Atkinson, Stanford-Vienna TTLF Fellow
 
+## [About the Author](https://github.com/lexmerca/TTIPv2_Abstract/Author.md)
+
 ## [Abstract](https://github.com/lexmerca/TTIPv2_Abstract)
 
 ## 1. [Introduction](https://github.com/lexmerca/TTIPv2_1/)
