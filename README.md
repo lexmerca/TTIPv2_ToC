@@ -30,55 +30,13 @@ Investigator: [Craig Atkinson](https://law.stanford.edu/directory/craig-atkinson
 
 #### 4.3 EU Sources of Electronic Business, Digital, and Data Regulations
 
-###### 4.3.1 Directive on Electronic Commerce (‘E-commerce Directive’)
-
-###### 4.3.2 electronic IDentification, Authentication and trust Services (‘eIDAS’) Regulation
-
-###### 4.3.3 General Data Protection Regulation (‘GDPR’)
-
-###### 4.3.4 Digital Markets Act (‘DMA’)
-
-###### 4.3.5 Digital Services Act (‘DSA’)
-
-###### 4.3.6 Draft Data Governance Act (‘DGA’)
-
-###### 4.3.7 Proposed ePrivacy Regulation (‘ePR’)
-
 #### 4.4 US Sources of Electronic Business, Digital, and Data Regulations
 
-###### 4.4.1 A Patchwork of State and Federal Laws
-
-###### 4.4.2 Uniform Commercial Code ('UCC')
-
-###### 4.4.2 Uniform Electronic Transactions Act (‘UETA’)
-
-###### 4.4.3 Electronic Signatures in Global and National Commerce Act (‘E-Sign Act’)
- 
 #### 4.5 A Note on Artificial Intelligence ('AI') Regulations
 
 #### 4.6 Case Law: EU and US Court Rulings
 
 ## 5. [Framing Institutional Sources of Transnational Commercial Law](https://github.com/lexmerca/TTIPv2_5/)
-
-#### 5.1 United Nations Commission on International Trade Law (‘UNCITRAL’)
-
-###### 5.1.1 Convention on Contracts for the International Sale of Goods (‘CISG’)
-
-###### 5.1.2 Model Law on Electronic Commerce (‘MLEC’)
-
-###### 5.1.3 Model Law on Electronic Signatures (‘MLES’)
-
-###### 5.1.4 Model Law on Electronic Transferrable Records (‘MLETR’)
-
-#### 5.2 International Institute for the Unification of Private Law ('UNIDROIT')
-
-###### 5.2.1 Principles of International Commercial Contracts (‘UNIDROIT Principles’)
-
-#### 5.3 International Chamber of Commerce ('ICC')
-
-###### 5.3.1 International Commercial Terms (‘Incoterms’)
-
-###### 5.3.2 Uniform Rules for Digital Trade Transactions (‘URDTT’)
 
 ## 6. [Seizing the Opportunity: Computational Law for Transatlantic Trade](https://github.com/lexmerca/TTIPv2_6/)
 
