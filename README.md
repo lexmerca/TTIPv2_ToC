@@ -10,31 +10,9 @@ Investigator: [Craig Atkinson](https://law.stanford.edu/directory/craig-atkinson
 
 ## 2. [The Age of Computational Law, the Internet, and Rules Automation](https://github.com/lexmerca/TTIPv2_2/)
 
-#### 2.1 The Digitalization of Trade: From Codification of Law to 'Code is Law'
-
-#### 2.2 A Transatlantic Trade and Investment Partnership 'version 2.0'?
-
 ## 3. [Exploring the Multilateral Interface: Public International Law](https://github.com/lexmerca/TTIPv2_3/)
 
-#### 3.1 Existing Sources of World Trade Organization ('WTO') Law
-
-#### 3.2 Ongoing WTO Negotiations and Initiatives
-
-#### 3.3 Case Law: WTO Panel Decisions and Appellate Body (‘AB’) Rulings
-
 ## 4. [Comparing *In force*, *Draft*, and *Proposed* Sources of EU and US Law](https://github.com/lexmerca/TTIPv2_4/)
-
-#### 4.1 EU Trade and Customs Law
-
-#### 4.2 US Trade and Customs Law
-
-#### 4.3 EU Sources of Electronic Business, Digital, and Data Regulations
-
-#### 4.4 US Sources of Electronic Business, Digital, and Data Regulations
-
-#### 4.5 A Note on Artificial Intelligence ('AI') Regulations
-
-#### 4.6 Case Law: EU and US Court Rulings
 
 ## 5. [Framing Institutional Sources of Transnational Commercial Law](https://github.com/lexmerca/TTIPv2_5/)
 
