@@ -10,7 +10,7 @@ Investigator: [Craig Atkinson](https://law.stanford.edu/directory/craig-atkinson
 
 ## 2. [*THE AGE OF COMPUTATIONAL LAW, INTERNET, & RULES AUTOMATION*](https://github.com/lexmerca/TTIPv2_2/)
 
-## 3. [Exploring the Multilateral Interface: Public International Law](https://github.com/lexmerca/TTIPv2_3/)
+## 3. [*EXPLORING THE MULTILATERAL INTERFACE: PUBLIC INTERNATIONAL LAW*](https://github.com/lexmerca/TTIPv2_3/)
 
 ## 4. [*COMPARING IN FORCE, DRAFT, & PROPOSED SOURCES OF EU / US LAW*](https://github.com/lexmerca/TTIPv2_4/)
 
