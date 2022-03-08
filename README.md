@@ -12,7 +12,7 @@ Investigator: [Craig Atkinson](https://law.stanford.edu/directory/craig-atkinson
 
 ## 3. [Exploring the Multilateral Interface: Public International Law](https://github.com/lexmerca/TTIPv2_3/)
 
-## 4. [Comparing *In force*, *Draft*, and *Proposed* Sources of EU and US Law](https://github.com/lexmerca/TTIPv2_4/)
+## 4. [*COMPARING IN FORCE, DRAFT, & PROPOSED SOURCES OF EU / US LAW*](https://github.com/lexmerca/TTIPv2_4/)
 
 ## 5. [Framing Institutional Sources of Transnational Commercial Law](https://github.com/lexmerca/TTIPv2_5/)
 
