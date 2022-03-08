@@ -18,6 +18,6 @@ Investigator: [Craig Atkinson](https://law.stanford.edu/directory/craig-atkinson
 
 ## 6. [Seizing the Opportunity: Computational Law for Transatlantic Trade](https://github.com/lexmerca/TTIPv2_6/)
 
-## 7. [Conclusion](https://github.com/lexmerca/TTIPv2_7)
+## 7. [*CONCLUSION*](https://github.com/lexmerca/TTIPv2_7)
 
 
