@@ -16,7 +16,7 @@ Investigator: [Craig Atkinson](https://law.stanford.edu/directory/craig-atkinson
 
 ## V. [INSTITUTIONAL SOURCES OF TRANSNATIONAL COMMERCIAL LAW](https://github.com/lexmerca/TTIPv2_5/)
 
-## VI. [Seizing the Opportunity: Computational Law for Transatlantic Trade](https://github.com/lexmerca/TTIPv2_6/)
+## VI. [THE ‘COMPLAW’ OPPORTUNITY FOR TRANSATLANTIC TRADE](https://github.com/lexmerca/TTIPv2_6/)
 
 ## VII. [CONCLUSION](https://github.com/lexmerca/TTIPv2_7)
 
