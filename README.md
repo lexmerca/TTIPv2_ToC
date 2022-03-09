@@ -8,16 +8,16 @@ Investigator: [Craig Atkinson](https://law.stanford.edu/directory/craig-atkinson
 
 ## I. [INTRODUCTION](https://github.com/lexmerca/TTIPv2_1/)
 
-## II. [*THE AGE OF COMPUTATIONAL LAW, INTERNET, & RULES AUTOMATION*](https://github.com/lexmerca/TTIPv2_2/)
+## II. [THE AGE OF COMPUTATIONAL LAW AND THE INTERNET](https://github.com/lexmerca/TTIPv2_2/)
 
-## III. [*EXPLORING THE MULTILATERAL INTERFACE: PUBLIC INTERNATIONAL LAW*](https://github.com/lexmerca/TTIPv2_3/)
+## III. [EXPLORING THE MULTILATERAL INTERFACE: PUBLIC INTERNATIONAL LAW](https://github.com/lexmerca/TTIPv2_3/)
 
-## IV. [*COMPARING IN FORCE, DRAFT, & PROPOSED SOURCES OF EU / US LAW*](https://github.com/lexmerca/TTIPv2_4/)
+## IV. [IN FORCE, DRAFT, & PROPOSED SOURCES OF EU / US LAW](https://github.com/lexmerca/TTIPv2_4/)
 
-## V. [Framing Institutional Sources of Transnational Commercial Law](https://github.com/lexmerca/TTIPv2_5/)
+## V. [INSTITUTIONAL SOURCES OF TRANSNATIONAL COMMERCIAL LAW](https://github.com/lexmerca/TTIPv2_5/)
 
 ## VI. [Seizing the Opportunity: Computational Law for Transatlantic Trade](https://github.com/lexmerca/TTIPv2_6/)
 
-## VII. [*CONCLUSION*](https://github.com/lexmerca/TTIPv2_7)
+## VII. [CONCLUSION](https://github.com/lexmerca/TTIPv2_7)
 
 
