@@ -8,7 +8,7 @@ Investigator: [Craig Atkinson](https://law.stanford.edu/directory/craig-atkinson
 
 ## I. [Introduction](https://github.com/lexmerca/TTIPv2_1/)
 
-## II. [THE AGE OF COMPUTATIONAL LAW AND THE INTERNET](https://github.com/lexmerca/TTIPv2_2/)
+## II. [The Age of Computational Law and the Internet](https://github.com/lexmerca/TTIPv2_2/)
 
 ## III. [THE MULTILATERAL INTERFACE: PUBLIC INTERNATIONAL LAW](https://github.com/lexmerca/TTIPv2_3/)
 
@@ -18,6 +18,6 @@ Investigator: [Craig Atkinson](https://law.stanford.edu/directory/craig-atkinson
 
 ## VI. [THE ‘COMPLAW’ OPPORTUNITY FOR TRANSATLANTIC TRADE](https://github.com/lexmerca/TTIPv2_6/)
 
-## VII. [CONCLUSION](https://github.com/lexmerca/TTIPv2_7)
+## VII. [Conclusion](https://github.com/lexmerca/TTIPv2_7)
 
 
