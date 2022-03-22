@@ -6,7 +6,7 @@ Investigator: [Craig Atkinson](https://law.stanford.edu/directory/craig-atkinson
 
 ## [Abstract](https://github.com/lexmerca/TTIPv2_Abstract)
 
-## I. [INTRODUCTION](https://github.com/lexmerca/TTIPv2_1/)
+## I. [Introduction](https://github.com/lexmerca/TTIPv2_1/)
 
 ## II. [THE AGE OF COMPUTATIONAL LAW AND THE INTERNET](https://github.com/lexmerca/TTIPv2_2/)
 
