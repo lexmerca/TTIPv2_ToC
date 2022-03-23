@@ -2,7 +2,7 @@
 
 Investigator: [Craig Atkinson](https://law.stanford.edu/directory/craig-atkinson/), [Stanford-Vienna TTLF Fellow](https://law.stanford.edu/transatlantic-technology-law-forum/#slsnav-fellows)
 
-## [About the Author](https://github.com/lexmerca/TTIPv2_Abstract/blob/main/Author.md)
+## [About the Author](https://github.com/lexmerca/TTIPv2_ToC/blob/main/Author.md)
 
 ## [Abstract](https://github.com/lexmerca/TTIPv2_Abstract)
 
