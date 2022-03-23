@@ -4,7 +4,7 @@ Investigator: [Craig Atkinson](https://law.stanford.edu/directory/craig-atkinson
 
 ## [About the Author](https://github.com/lexmerca/TTIPv2_ToC/blob/main/Author.md)
 
-## [Abstract](https://github.com/lexmerca/TTIPv2_Abstract)
+## [Abstract](https://github.com/lexmerca/TTIPv2_ToC/blob/main/Abstract.md)
 
 ## I. [Introduction](https://github.com/lexmerca/TTIPv2_1/)
 
