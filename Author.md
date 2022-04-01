@@ -1,4 +1,4 @@
-# [About the Author](https://github.com/lexmerca/TTIPv2_ToC)
+## [About the Author](https://github.com/lexmerca/TTIPv2_ToC)
 
 Craig Atkinson is the Founder / Director of Lexmerca International Trade, a Consultant with the United Nations International Trade Centre, and a Fellow with the Stanford-Vienna Transatlantic Technology Law Forum. Before joining the UN in 2012, Craig began his career in commercial diplomacy with two national government agencies: the Australian Trade Commission and the Canadian Trade Commissioner Service. He has also served as a consultant for the Commonwealth Secretariat and in the private sector.
 
