@@ -6,18 +6,18 @@ Investigator: [Craig Atkinson](https://law.stanford.edu/directory/craig-atkinson
 
 ## [Abstract](https://github.com/lexmerca/TTIPv2_ToC/blob/main/Abstract.md)
 
-## I. [Introduction](https://github.com/lexmerca/TTIPv2_1/)
+### I. [Introduction](https://github.com/lexmerca/TTIPv2_1/)
 
-## II. [Describing EU-US Relations in the Age of Computational Law](https://github.com/lexmerca/TTIPv2_2/)
+### II. [Describing EU-US Relations in the Age of Computational Law](https://github.com/lexmerca/TTIPv2_2/)
 
-## III. [Exploring the Multilateral Interface: Public International Law](https://github.com/lexmerca/TTIPv2_3/)
+### III. [Exploring the Multilateral Interface: Public International Law](https://github.com/lexmerca/TTIPv2_3/)
 
-## IV. [Comparing *In force*, *Draft*, and *Proposed* Sources of EU and US Law](https://github.com/lexmerca/TTIPv2_4/)
+### IV. [Comparing *In force*, *Draft*, and *Proposed* Sources of EU and US Law](https://github.com/lexmerca/TTIPv2_4/)
 
-## V. [Framing Institutional Sources of Transnational Commercial Law](https://github.com/lexmerca/TTIPv2_5/)
+### V. [Framing Institutional Sources of Transnational Commercial Law](https://github.com/lexmerca/TTIPv2_5/)
 
-## VI. [Seizing the 'CompLaw' Opportunity for Transatlantic Trade](https://github.com/lexmerca/TTIPv2_6/)
+### VI. [Seizing the 'CompLaw' Opportunity for Transatlantic Trade](https://github.com/lexmerca/TTIPv2_6/)
 
-## VII. [Conclusion](https://github.com/lexmerca/TTIPv2_7)
+### VII. [Conclusion](https://github.com/lexmerca/TTIPv2_7)
 
 
