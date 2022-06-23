@@ -22,4 +22,5 @@ Investigator: [Craig Atkinson](https://law.stanford.edu/directory/craig-atkinson
 
 Tools:
 Citations Manager: [Jurism](https://juris-m.github.io/)
+
 Knowledge Base: [Obsidian](https://obsidian.md/)
