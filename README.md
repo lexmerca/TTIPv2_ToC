@@ -10,8 +10,15 @@ Investigator: [Craig Atkinson](https://law.stanford.edu/directory/craig-atkinson
 
 ### II. [Describing EU-US Relations in the Age of Computational Law](https://github.com/lexmerca/TTIPv2_2/)
 
+#### A. The Digitalization of Trade: From Codification of Law to ‘Code is Law’ 
+
+#### B. B. A Transatlantic Trade and Investment Partnership ‘version 2.0’?
+
 ### III. [Exploring the Multilateral Interface: Public International Law](https://github.com/lexmerca/TTIPv2_3/)
 
+#### 
+
+####
 ### IV. [Comparing *In force*, *Draft*, and *Proposed* Sources of EU and US Law](https://github.com/lexmerca/TTIPv2_4/)
 
 ### V. [Framing Institutional Sources of Transnational Commercial Law](https://github.com/lexmerca/TTIPv2_5/)
