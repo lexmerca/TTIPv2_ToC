@@ -8,7 +8,7 @@ Investigator: [Craig Atkinson](https://law.stanford.edu/directory/craig-atkinson
 
 ### I. [Introduction](https://github.com/lexmerca/TTIPv2_1/)
 
-### II. [Describing EU-US Relations in the Age of Computational Law](https://github.com/lexmerca/TTIPv2_2/)
+### II. [Describing Transatlantic Relations in the Age of Computational Law](https://github.com/lexmerca/TTIPv2_2/)
 
 #### A. The Digitalization of Trade: From Codification of Law to ‘Code as Law’ 
 
@@ -16,13 +16,13 @@ Investigator: [Craig Atkinson](https://law.stanford.edu/directory/craig-atkinson
 
 ### III. [Exploring the Multilateral Interface: Public International Law](https://github.com/lexmerca/TTIPv2_3/)
 
-#### A. Existing World Trade Organization Declarations and Agreements
+#### A. Existing World Trade Organization (WTO) Declarations and Agreements
 
-#### B.
+#### B. Ongoing WTO Joint Statement Initiatives, Negotiations, and Proposals
 
-#### C.
+#### C. Case Law: WTO Panel Decisions and Appellate Body Rulings
 
-#### D.
+#### D. World Customs Organization (WCO) Instruments
 
 ### IV. [Comparing *In force*, *Draft*, and *Proposed* Sources of EU and US Law](https://github.com/lexmerca/TTIPv2_4/)
 
