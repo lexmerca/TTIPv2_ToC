@@ -26,6 +26,14 @@ Investigator: [Craig Atkinson](https://law.stanford.edu/directory/craig-atkinson
 
 ### IV. [Comparing *In force*, *Draft*, and *Proposed* Sources of EU and US Law](https://github.com/lexmerca/TTIPv2_4/)
 
+#### A. EU Sources of Trade and Customs Law
+
+#### B. US Sources of Trade and Customs Law
+
+#### C.
+
+#### D.
+
 ### V. [Framing Institutional Sources of Transnational Commercial Law](https://github.com/lexmerca/TTIPv2_5/)
 
 ### VI. [Seizing the 'CompLaw' Opportunity for Transatlantic Trade](https://github.com/lexmerca/TTIPv2_6/)
