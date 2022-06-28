@@ -43,7 +43,7 @@ Investigator: [Craig Atkinson](https://law.stanford.edu/directory/craig-atkinson
 
 
 
-| Tools                                                                                                                 |
+| Tools                                                              |                                                  |
 | ------------------------------------------------------------------ | ------------------------------------------------ |
 | Citations Manager (Bluebook): [Jurism](https://juris-m.github.io/) | Knowledge Base: [Obsidian](https://obsidian.md/) |
 
