@@ -40,8 +40,7 @@ Investigator: [Craig Atkinson](https://law.stanford.edu/directory/craig-atkinson
 
 ### VII. [Conclusion](https://github.com/lexmerca/TTIPv2_7)
 
-
-#### Tools:
+####
 
 | Citations Manager (Bluebook): [Jurism](https://juris-m.github.io/) | Knowledge Base: [Obsidian](https://obsidian.md/) |
 | ------------------------------------------------------------------ | ------------------------------------------------ |
