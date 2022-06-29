@@ -40,9 +40,9 @@ Investigator: [Craig Atkinson](https://law.stanford.edu/directory/craig-atkinson
 
 #### B. International Chamber of Commerce (ICC)
 
-#### C.
+#### C. United Nations Commission on International Trade Law (UNCITRAL)
 
-#### D.
+#### D. D. International Institute for the Unification of Private Law (UNIDROIT)
 
 ### VI. [Seizing the 'CompLaw' Opportunity for Transatlantic Trade](https://github.com/lexmerca/TTIPv2_6/)
 
