@@ -50,7 +50,7 @@ Investigator: [Craig Atkinson](https://law.stanford.edu/directory/craig-atkinson
 
 ####
 
-| Citations Manager (Bluebook): [Jurism](https://juris-m.github.io/) | Knowledge Base: [Obsidian](https://obsidian.md/) |
+| Citations Manager [(IndigoBook)](https://juris-m.github.io/indigobook+jurism/): [Jurism](https://juris-m.github.io/) | Knowledge Base: [Obsidian](https://obsidian.md/) |
 | ------------------------------------------------------------------ | ------------------------------------------------ |
 
 
