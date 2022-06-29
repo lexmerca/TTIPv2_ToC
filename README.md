@@ -24,7 +24,7 @@ Investigator: [Craig Atkinson](https://law.stanford.edu/directory/craig-atkinson
 
 #### D. World Customs Organization (WCO) Legal Instruments
 
-### IV. [Comparing *In force*, *Draft*, and *Proposed* Sources of EU and US Law](https://github.com/lexmerca/TTIPv2_4/)
+### IV. [Comparing *In force*, *Draft*, and *Proposed* Sources of European Union (EU) and United States (US) Law](https://github.com/lexmerca/TTIPv2_4/)
 
 #### A. EU Sources of Trade and Customs Law
 
