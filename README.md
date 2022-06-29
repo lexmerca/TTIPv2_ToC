@@ -38,7 +38,7 @@ Investigator: [Craig Atkinson](https://law.stanford.edu/directory/craig-atkinson
 
 #### A. Hague Conference on Private International Law (HCCH)
 
-#### B.
+#### B. International Chamber of Commerce (ICC)
 
 #### C.
 
