@@ -34,6 +34,8 @@ Investigator: [Craig Atkinson](https://law.stanford.edu/directory/craig-atkinson
 
 #### D.
 
+#### F. Case Law: EU and US Courts
+
 ### V. [Framing Institutional Sources of Transnational Commercial Law](https://github.com/lexmerca/TTIPv2_5/)
 
 #### A. Hague Conference on Private International Law (HCCH)
