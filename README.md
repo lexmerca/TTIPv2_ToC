@@ -26,13 +26,13 @@ Investigator: [Craig Atkinson](https://law.stanford.edu/directory/craig-atkinson
 
 ### IV. [Comparing Sources of European Union (EU) and United States (US) Law](https://github.com/lexmerca/TTIPv2_4/)
 
-#### A. EU Sources of International Trade and Customs Law
+#### A. EU International Trade and Customs Law
 
-#### B. US Sources of International Trade and Customs Law
+#### B. US International Trade and Customs Law
 
-#### C. EU Sources of Commercial, Technology, and Privacy Law
+#### C. EU Commercial, Technology, and Privacy Law
 
-#### D. EU Sources of Commercial, Technology, and Privacy Law
+#### D. EU Commercial, Technology, and Privacy Law
 
 #### F. Case Law: EU and US Courts
 
