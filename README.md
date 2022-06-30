@@ -32,7 +32,7 @@ Investigator: [Craig Atkinson](https://law.stanford.edu/directory/craig-atkinson
 
 #### C. EU Sources of Commercial, Technology, and Privacy Law
 
-#### D. EU Sources of Commercial. Technology, and Privacy Law
+#### D. EU Sources of Commercial, Technology, and Privacy Law
 
 #### F. Case Law: EU and US Courts
 
