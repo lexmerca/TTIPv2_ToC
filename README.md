@@ -32,7 +32,7 @@ Investigator: [Craig Atkinson](https://law.stanford.edu/directory/craig-atkinson
 
 #### C. EU Business, Technology, and Privacy Law
 
-#### D. EU Business, Technology, and Privacy Law
+#### D. US Business, Technology, and Privacy Law
 
 #### F. Case Law: EU and US Courts
 
