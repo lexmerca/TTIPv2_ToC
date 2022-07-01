@@ -10,13 +10,13 @@ Investigator: [Craig Atkinson](https://law.stanford.edu/directory/craig-atkinson
 
 ### II. [Describing Transatlantic Relations in the Age of Computational Law](https://github.com/lexmerca/TTIPv2_2/)
 
-####     A. [The Digitalization of Trade: From Codification of Law to ‘Code as Law’](https://github.com/lexmerca/TTIPv2_2/blob/main/README.md#a-the-digitalization-of-trade-from-codification-of-law-to-code-as-law) 
+#### A. [The Digitalization of Trade: From Codification of Law to ‘Code as Law’](https://github.com/lexmerca/TTIPv2_2/blob/main/README.md#a-the-digitalization-of-trade-from-codification-of-law-to-code-as-law) 
 
-####     B. [A Transatlantic Trade and Investment Partnership ‘version 2.0’?](https://github.com/lexmerca/TTIPv2_2/blob/main/README.md#b-a-transatlantic-trade-and-investment-partnership-version-20)
+#### B. [A Transatlantic Trade and Investment Partnership ‘version 2.0’?](https://github.com/lexmerca/TTIPv2_2/blob/main/README.md#b-a-transatlantic-trade-and-investment-partnership-version-20)
 
-### III. [Exploring the Multilateral Interface: Public International Law](https://github.com/lexmerca/TTIPv2_3/)
+  ### III. [Exploring the Multilateral Interface: Public International Law](https://github.com/lexmerca/TTIPv2_3/)
 
-#### A. [Existing World Trade Organization (WTO) Agreements and Declarations](https://github.com/lexmerca/TTIPv2_3/blob/main/README.md#a-existing-world-trade-organization-wto-agreements-and-declarations)
+  #### A. [Existing World Trade Organization (WTO) Agreements and Declarations](https://github.com/lexmerca/TTIPv2_3/blob/main/README.md#a-existing-world-trade-organization-wto-agreements-and-declarations)
 
 #### B. Ongoing WTO Joint Statement Initiatives, Negotiations, and Proposals
 
