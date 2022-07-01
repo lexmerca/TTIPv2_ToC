@@ -10,7 +10,7 @@ Investigator: [Craig Atkinson](https://law.stanford.edu/directory/craig-atkinson
 
 ### II. [Describing Transatlantic Relations in the Age of Computational Law](https://github.com/lexmerca/TTIPv2_2/)
 
-#### A. The Digitalization of Trade: From Codification of Law to ‘Code as Law’ 
+#### A. [The Digitalization of Trade: From Codification of Law to ‘Code as Law’](https://github.com/lexmerca/TTIPv2_2/blob/main/README.md#a-the-digitalization-of-trade-from-codification-of-law-to-code-as-law) 
 
 #### B. A Transatlantic Trade and Investment Partnership ‘version 2.0’?
 
