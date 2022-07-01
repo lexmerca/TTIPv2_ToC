@@ -38,13 +38,13 @@ Investigator: [Craig Atkinson](https://law.stanford.edu/directory/craig-atkinson
 
 ### V. [Framing Institutional Sources of Transnational Commercial Law](https://github.com/lexmerca/TTIPv2_5/)
 
-#### A. Hague Conference on Private International Law (HCCH)
+#### A. [Hague Conference on Private International Law (HCCH)]()
 
-#### B. International Chamber of Commerce (ICC)
+#### B. [International Chamber of Commerce (ICC)]()
 
-#### C. United Nations Commission on International Trade Law (UNCITRAL)
+#### C. [United Nations Commission on International Trade Law (UNCITRAL)]()
 
-#### D. International Institute for the Unification of Private Law (UNIDROIT)
+#### D. [International Institute for the Unification of Private Law (UNIDROIT)]()
 
 ### VI. [Seizing the 'CompLaw' Opportunity for Transatlantic Trade](https://github.com/lexmerca/TTIPv2_6/)
 
