@@ -30,9 +30,9 @@ Investigator: [Craig Atkinson](https://law.stanford.edu/directory/craig-atkinson
 
 #### B. US International Trade and Customs Law
 
-#### C. EU Commercial, Technology, and Privacy Law
+#### C. EU Business, Technology, and Privacy Law
 
-#### D. EU Commercial, Technology, and Privacy Law
+#### D. EU Business, Technology, and Privacy Law
 
 #### F. Case Law: EU and US Courts
 
