@@ -14,15 +14,15 @@ Investigator: [Craig Atkinson](https://law.stanford.edu/directory/craig-atkinson
 
 #### B. [A Transatlantic Trade and Investment Partnership ‘version 2.0’?](https://github.com/lexmerca/TTIPv2_2/blob/main/README.md#b-a-transatlantic-trade-and-investment-partnership-version-20)
 
-  ### III. [Exploring the Multilateral Interface: Public International Law](https://github.com/lexmerca/TTIPv2_3/)
+### III. [Exploring the Multilateral Interface: Public International Law](https://github.com/lexmerca/TTIPv2_3/)
 
-  #### A. [Existing World Trade Organization (WTO) Agreements and Declarations](https://github.com/lexmerca/TTIPv2_3/blob/main/README.md#a-existing-world-trade-organization-wto-agreements-and-declarations)
+#### A. [Existing World Trade Organization (WTO) Agreements and Declarations](https://github.com/lexmerca/TTIPv2_3/blob/main/README.md#a-existing-world-trade-organization-wto-agreements-and-declarations)
 
-#### B. Ongoing WTO Joint Statement Initiatives, Negotiations, and Proposals
+#### B. [Ongoing WTO Joint Statement Initiatives, Negotiations, and Proposals]()
 
-#### C. Case Law: WTO Panel Decisions and Appellate Body Rulings
+#### C. [Case Law: WTO Panel Decisions and Appellate Body Rulings]()
 
-#### D. World Customs Organization (WCO) Legal Instruments
+#### D. [World Customs Organization (WCO) Legal Instruments]()
 
 ### IV. [Comparing Sources of European Union (EU) and United States (US) Law](https://github.com/lexmerca/TTIPv2_4/)
 
