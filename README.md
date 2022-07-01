@@ -16,7 +16,7 @@ Investigator: [Craig Atkinson](https://law.stanford.edu/directory/craig-atkinson
 
 ### III. [Exploring the Multilateral Interface: Public International Law](https://github.com/lexmerca/TTIPv2_3/)
 
-#### A. Existing World Trade Organization (WTO) Agreements and Declarations
+#### A. [Existing World Trade Organization (WTO) Agreements and Declarations](https://github.com/lexmerca/TTIPv2_3/blob/main/README.md#a-existing-world-trade-organization-wto-agreements-and-declarations)
 
 #### B. Ongoing WTO Joint Statement Initiatives, Negotiations, and Proposals
 
