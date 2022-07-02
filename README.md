@@ -12,7 +12,7 @@ Investigator: [Craig Atkinson](https://law.stanford.edu/directory/craig-atkinson
 
 #### A. [The Digitalization of Trade: From Codification of Law to ‘Code as Law’](https://github.com/lexmerca/TTIPv2_2/blob/main/README.md#a-the-digitalization-of-trade-from-codification-of-law-to-code-as-law) 
 
-#### B. [A Transatlantic Trade and Investment Partnership (TTIP) ‘version 2.0’?](https://github.com/lexmerca/TTIPv2_ToC#b-a-transatlantic-trade-and-investment-partnership-ttip-version-20)
+#### B. [A Transatlantic Trade and Investment Partnership (TTIP) ‘version 2.0’?]()
 
 ### III. [Exploring the Multilateral Interface: Public International Law](https://github.com/lexmerca/TTIPv2_3/)
 
