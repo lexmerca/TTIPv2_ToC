@@ -22,7 +22,7 @@ Investigator: [Craig Atkinson](https://law.stanford.edu/directory/craig-atkinson
 
 #### C. [Case Law: WTO Panel Decisions and Appellate Body Rulings](https://github.com/lexmerca/TTIPv2_3/#c-case-law-wto-panel-decisions-and-appellate-body-rulings)
 
-#### D. [World Customs Organization (WCO) Legal Instruments]()
+#### D. [World Customs Organization (WCO) Legal Instruments](https://github.com/lexmerca/TTIPv2_3/#d-world-customs-organization-wco-legal-instruments)
 
 ### IV. [Comparing Sources of European Union (EU) and United States (US) Law](https://github.com/lexmerca/TTIPv2_4/)
 
