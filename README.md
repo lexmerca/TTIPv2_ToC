@@ -18,7 +18,7 @@ Investigator: [Craig Atkinson](https://law.stanford.edu/directory/craig-atkinson
 
 #### A. [Existing World Trade Organization (WTO) Agreements and Declarations](https://github.com/lexmerca/TTIPv2_3/blob/main/README.md#a-existing-world-trade-organization-wto-agreements-and-declarations)
 
-#### B. [Ongoing WTO Joint Statement Initiatives, Negotiations, and Proposals]()
+#### B. [Ongoing WTO Joint Statement Initiatives, Negotiations, and Proposals](https://github.com/lexmerca/TTIPv2_3/#b-ongoing-wto-joint-statement-initiatives-negotiations-and-proposals)
 
 #### C. [Case Law: WTO Panel Decisions and Appellate Body Rulings]()
 
