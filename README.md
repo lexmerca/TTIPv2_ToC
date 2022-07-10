@@ -38,7 +38,7 @@ Investigator: [Craig Atkinson](https://law.stanford.edu/directory/craig-atkinson
 
 ### V. [Framing Institutional Sources of Transnational Commercial Law](https://github.com/lexmerca/TTIPv2_5/)
 
-#### A. [Hague Conference on Private International Law (HCCH)]()
+#### A. [Hague Conference on Private International Law (HCCH)](https://github.com/lexmerca/TTIPv2_5/#a-hague-conference-on-private-international-law-hcch)
 
 #### B. [International Chamber of Commerce (ICC)](https://github.com/lexmerca/TTIPv2_5/blob/main/README.md#b-international-chamber-of-commerce-icc)
 
