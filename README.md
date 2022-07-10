@@ -30,7 +30,7 @@ Investigator: [Craig Atkinson](https://law.stanford.edu/directory/craig-atkinson
 
 #### B. [US International Trade and Customs Law]()
 
-#### C. [EU Business, Technology, and Privacy Law]()
+#### C. [EU Business, Technology, and Privacy Law](https://github.com/lexmerca/TTIPv2_4/blob/main/README.md#c-eu-business-technology-and-privacy-law)
 
 #### D. [US Business, Technology, and Privacy Law](https://github.com/lexmerca/TTIPv2_4/#d-us-business-technology-and-privacy-law)
 
