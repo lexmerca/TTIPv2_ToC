@@ -20,7 +20,7 @@ Investigator: [Craig Atkinson](https://law.stanford.edu/directory/craig-atkinson
 
 #### B. [Ongoing WTO Joint Statement Initiatives, Negotiations, and Proposals](https://github.com/lexmerca/TTIPv2_3/#b-ongoing-wto-joint-statement-initiatives-negotiations-and-proposals)
 
-#### C. [Case Law: WTO Panel Decisions and Appellate Body Rulings]()
+#### C. [Case Law: WTO Panel Decisions and Appellate Body Rulings](https://github.com/lexmerca/TTIPv2_3/#c-case-law-wto-panel-decisions-and-appellate-body-rulings)
 
 #### D. [World Customs Organization (WCO) Legal Instruments]()
 
