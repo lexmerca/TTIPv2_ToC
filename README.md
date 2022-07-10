@@ -34,7 +34,7 @@ Investigator: [Craig Atkinson](https://law.stanford.edu/directory/craig-atkinson
 
 #### D. [US Business, Technology, and Privacy Law]()
 
-#### F. [Case Law: EU and US Courts]()
+#### F. [Case Law: EU and US Courts](https://github.com/lexmerca/TTIPv2_4/blob/main/README.md#f-case-law-eu-and-us-courts)
 
 ### V. [Framing Institutional Sources of Transnational Commercial Law](https://github.com/lexmerca/TTIPv2_5/)
 
