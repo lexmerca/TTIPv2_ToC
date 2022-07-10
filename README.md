@@ -40,7 +40,7 @@ Investigator: [Craig Atkinson](https://law.stanford.edu/directory/craig-atkinson
 
 #### A. [Hague Conference on Private International Law (HCCH)]()
 
-#### B. [International Chamber of Commerce (ICC)]()
+#### B. [International Chamber of Commerce (ICC)](https://github.com/lexmerca/TTIPv2_5/blob/main/README.md#b-international-chamber-of-commerce-icc)
 
 #### C. [United Nations Commission on International Trade Law (UNCITRAL)](https://github.com/lexmerca/TTIPv2_5/#c-united-nations-commission-on-international-trade-law-uncitral)
 
