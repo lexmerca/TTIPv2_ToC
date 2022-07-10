@@ -42,7 +42,7 @@ Investigator: [Craig Atkinson](https://law.stanford.edu/directory/craig-atkinson
 
 #### B. [International Chamber of Commerce (ICC)]()
 
-#### C. [United Nations Commission on International Trade Law (UNCITRAL)]()
+#### C. [United Nations Commission on International Trade Law (UNCITRAL)](https://github.com/lexmerca/TTIPv2_5/#c-united-nations-commission-on-international-trade-law-uncitral)
 
 #### D. [International Institute for the Unification of Private Law (UNIDROIT)](https://github.com/lexmerca/TTIPv2_5/blob/main/README.md#d-international-institute-for-the-unification-of-private-law-unidroit)
 
