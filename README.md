@@ -48,6 +48,8 @@ Investigator: [Craig Atkinson](https://law.stanford.edu/directory/craig-atkinson
 
 ### VI. [Seizing the 'CompLaw' Opportunity for Transatlantic Trade](https://github.com/lexmerca/TTIPv2_6/#vi-seizing-the-complaw-opportunity-for-transatlantic-trade)
 
+#### A. [Standards](https://github.com/lexmerca)
+
 ### VII. [Conclusion](https://github.com/lexmerca/TTIPv2_7)
 
 ####
