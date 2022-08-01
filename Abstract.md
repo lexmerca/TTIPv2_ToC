@@ -4,3 +4,6 @@ In 2016, negotiations toward a Transatlantic Trade and Investment Partnership (T
 
 
 Keywords: Administrative Law; Algorithmic Law; Business Law; Computational Law; Customs; Data Regulation; Digital Trade; Digitalization; Electronic Commerce; European Union; Human-Centred Automation; Internet; International Economic Law; Open Source; Regulatory Technology; Smart Contracts; Technology Law; Trade Facilitation; Trade in Services; Trade Policy; Transnational Law; United States
+
+JEL Codes: F13; F15; F53; H25; K12; K22; K23; K24; K33; K34; L17; L25; L51; L88; M16; M21; M48; N42; N44 N74; O19; O24; O51; O52; O57; P16; P45; P51; Q17; R12
+
