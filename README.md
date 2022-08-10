@@ -48,7 +48,7 @@ Investigator: [Craig Atkinson](https://law.stanford.edu/directory/craig-atkinson
 
 ### VI. [Seizing the 'CompLaw' Opportunity for Transatlantic Trade](https://github.com/lexmerca/TTIPv2_6/#vi-seizing-the-complaw-opportunity-for-transatlantic-trade)
 
-#### A. [Standards Enable the Development of Digital Infrastructure](https://github.com/lexmerca)
+#### A. [Standards Enable the Development of Digital Infrastructure](https://github.com/lexmerca/TTIPv2_6/blob/main/README.md#a-standards-enable-the-development-of-digital-infrastructure)
 
 ### VII. [Conclusion](https://github.com/lexmerca/TTIPv2_7)
 
