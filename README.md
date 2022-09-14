@@ -36,13 +36,13 @@ Investigator: [Craig Atkinson](https://law.stanford.edu/directory/craig-atkinson
 
 ### V. [Framing Institutional Sources of Transnational Commercial Law](https://github.com/lexmerca/TTIPv2_5/#v-framing-institutional-sources-of-transnational-commercial-law)
 
-#### A. [Hague Conference on Private International Law (HCCH)](https://github.com/lexmerca/TTIPv2_5/#a-hague-conference-on-private-international-law-hcch)
+#### A. [United Nations Commission on International Trade Law (UNCITRAL)](https://github.com/lexmerca/TTIPv2_5/#a-united-nations-commission-on-international-trade-law-uncitral)
 
-#### B. [International Chamber of Commerce (ICC)](https://github.com/lexmerca/TTIPv2_5/blob/main/README.md#b-international-chamber-of-commerce-icc)
+#### B. [International Institute for the Unification of Private Law (UNIDROIT)](https://github.com/lexmerca/TTIPv2_5/blob/main/README.md#b-international-institute-for-the-unification-of-private-law-unidroit)
 
-#### C. [United Nations Commission on International Trade Law (UNCITRAL)](https://github.com/lexmerca/TTIPv2_5/#c-united-nations-commission-on-international-trade-law-uncitral)
+#### C. [Hague Conference on Private International Law (HCCH)](https://github.com/lexmerca/TTIPv2_5/#c-hague-conference-on-private-international-law-hcch)
 
-#### D. [International Institute for the Unification of Private Law (UNIDROIT)](https://github.com/lexmerca/TTIPv2_5/blob/main/README.md#d-international-institute-for-the-unification-of-private-law-unidroit)
+#### D. [International Chamber of Commerce (ICC)](https://github.com/lexmerca/TTIPv2_5/blob/main/README.md#d-international-chamber-of-commerce-icc)
 
 ### VI. [Seizing the 'CompLaw' Opportunity for Transatlantic Trade](https://github.com/lexmerca/TTIPv2_6/#vi-seizing-the-complaw-opportunity-for-transatlantic-trade)
 
