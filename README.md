@@ -1,6 +1,6 @@
 # [A Transatlantic Trade and Investment Partnership ‘version 2.0’? International Commercial Rules in the Age of Computational Law](https://github.com/lexmerca/TTIPv2_ToC)
 
-Investigator: [Craig Atkinson](https://law.stanford.edu/directory/craig-atkinson/), [Stanford Law School-University of Vienna School of Law TTLF Fellow](https://law.stanford.edu/transatlantic-technology-law-forum/#slsnav-fellows)
+Investigator: [Craig Atkinson](https://law.stanford.edu/directory/craig-atkinson/), [Stanford Law School-University of Vienna School of Law TTLF](https://law.stanford.edu/transatlantic-technology-law-forum/#slsnav-fellows)
 
 ## [About the Author](https://github.com/lexmerca/TTIPv2_ToC/blob/main/Author.md)
 
