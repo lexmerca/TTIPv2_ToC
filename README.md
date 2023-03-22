@@ -26,7 +26,7 @@ Investigator: [Craig Atkinson](https://law.stanford.edu/directory/craig-atkinson
 
 #### A. [EU International Trade, Customs, and Tax Law](https://github.com/lexmerca/TTIPv2_4/#a-eu-international-trade-customs-and-tax-law)
 
-#### B. [US International Trade, Customs, and Tax Law]([https://github.com/lexmerca/TTIPv2_4/blob/main/README.md#b-us-international-trade-and-customs-law](https://github.com/lexmerca/TTIPv2_4/blob/main/README.md#b-us-international-trade-customs-and-tax-law)
+#### B. [US International Trade, Customs, and Tax Law](https://github.com/lexmerca/TTIPv2_4/blob/main/README.md#b-us-international-trade-and-customs-law](https://github.com/lexmerca/TTIPv2_4/blob/main/README.md#b-us-international-trade-customs-and-tax-law)
 
 #### C. [EU Business, Technology, and Privacy Law](https://github.com/lexmerca/TTIPv2_4/blob/main/README.md#c-eu-business-technology-and-privacy-law)
 
