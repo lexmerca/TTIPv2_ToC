@@ -24,7 +24,7 @@ Investigator: [Craig Atkinson](https://law.stanford.edu/directory/craig-atkinson
 
 ### IV. [Comparing Sources of European Union (EU) and United States (US) Law](https://github.com/lexmerca/TTIPv2_4/)
 
-#### A. [EU International Trade, Customs, and Tax Law](https://github.com/lexmerca/TTIPv2_4/#a-eu-international-trade-and-customs-law)
+#### A. [EU International Trade, Customs, and Tax Law](https://github.com/lexmerca/TTIPv2_4/#a-eu-international-trade-customs-and-tax-law)
 
 #### B. [US International Trade, Customs, and Tax Law](https://github.com/lexmerca/TTIPv2_4/blob/main/README.md#b-us-international-trade-and-customs-law)
 
