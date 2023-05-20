@@ -1,6 +1,6 @@
 # [A Transatlantic Trade and Investment Partnership ‘version 2.0’? International Commercial Rules in the Age of Computational Law](https://github.com/lexmerca/TTIPv2_ToC)
 
-Investigator: Craig Atkinson, [TTLF Project, Stanford Law School-University of Vienna School of Law](Stanford Law School-University of Vienna School of Law)
+Investigator: Craig Atkinson, [TTLF Project, Stanford Law School-University of Vienna School of Law](https://law.stanford.edu/transatlantic-technology-law-forum/projects/towards-algorithmic-trade-policy-a-transatlantic-trade-and-investment-partnership-in-the-era-of-computational-law/)
 
 ## [About the Author](https://github.com/lexmerca/TTIPv2_ToC/blob/main/Author.md)
 
